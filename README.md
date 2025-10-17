@@ -36,6 +36,16 @@ It includes details such as:
 
 5. Stay and check-in dates
 
+## Overall_Analysis & Monthly_Analysis
+
+
+**Overall_Analysis**
+![Overall_Analysis](https://github.com/Revathi-jaisankar/AtliQ-Hospitality-Dashboard/blob/main/overall_analysis.png)
+
+
+**Monthly_Analysis**
+![Monthly_Analysis](https://github.com/Revathi-jaisankar/AtliQ-Hospitality-Dashboard/blob/main/monthly_analysis.png)
+
 ## 📊 Key Metrics
 ### Metric	Description:
 - Revenue	Total revenue generated from all bookings
@@ -53,9 +63,6 @@ It includes details such as:
 - 🧾 Online platforms analyzed to determine most effective booking sources.
 
 - 💹 Clear trends found in seasonal and weekly performance patterns.
-
-## Overall_Analysis & Monthly_Analysis
-
 
 ## 🛠️ Tools & Skills Used
 
