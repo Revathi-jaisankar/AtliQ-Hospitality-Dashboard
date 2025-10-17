@@ -54,6 +54,9 @@ It includes details such as:
 
 - 💹 Clear trends found in seasonal and weekly performance patterns.
 
+## Overall_Analysis & Monthly_Analysis
+
+
 ## 🛠️ Tools & Skills Used
 
 - **Power BI**– Data modeling, DAX calculations, visualization **
