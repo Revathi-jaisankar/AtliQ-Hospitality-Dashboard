@@ -80,7 +80,7 @@ It includes details such as:
 
 👉 Click here to view live dashboard [Power BI Dashboard](https://shorturl.at/asLch)
 
-📁 LinkedIn Post :
+📁 LinkedIn Post : linkedIn post(https://shorturl.at/Zs8et)
 
 ## 📚 Learnings
 
